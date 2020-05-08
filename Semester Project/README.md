@@ -33,3 +33,9 @@ In Jupyter Notebooks, use the Export to HTML... pretty simple.
 2. Make a directory called "out" in `src_data`
 3. In the root main directory, run `python3 src_data/wrangler.py"
 
+## Contributors:
+* Brett Sears
+* Erik Shively 
+* Paige Huffman
+* Skylar Trendley
+
