@@ -1,5 +1,4 @@
-# CS5402
-Intro to Data Mining
+# CS5402 - Intro to Data Mining
 
 ## Course Overview
 The key objectives of this course are two-fold: (1) to teach the fundamental concepts of data mining and (2) to provide extensive hands-on experience in applying the concepts to real-world applications. The core topics to be covered in this course include classification, clustering, association analysis, data preprocessing, and outlier/novelty detection.
